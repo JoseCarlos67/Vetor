@@ -1,0 +1,15 @@
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/bin/Debug/net7.0/VetorExeFixacao
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/bin/Debug/net7.0/VetorExeFixacao.deps.json
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/bin/Debug/net7.0/VetorExeFixacao.runtimeconfig.json
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/bin/Debug/net7.0/VetorExeFixacao.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/bin/Debug/net7.0/VetorExeFixacao.pdb
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/obj/Debug/net7.0/VetorExeFixacao.csproj.AssemblyReference.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/obj/Debug/net7.0/VetorExeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/obj/Debug/net7.0/VetorExeFixacao.AssemblyInfoInputs.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/obj/Debug/net7.0/VetorExeFixacao.AssemblyInfo.cs
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/obj/Debug/net7.0/VetorExeFixacao.csproj.CoreCompileInputs.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/obj/Debug/net7.0/VetorExeFixacao.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/obj/Debug/net7.0/refint/VetorExeFixacao.dll
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/obj/Debug/net7.0/VetorExeFixacao.pdb
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/obj/Debug/net7.0/VetorExeFixacao.genruntimeconfig.cache
+/home/carlos/Dev/C#/Curso Nelio Alves/Comportamento de memória/VetorExeFixacao/obj/Debug/net7.0/ref/VetorExeFixacao.dll
